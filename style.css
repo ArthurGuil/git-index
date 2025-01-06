@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: "Arial";
+    color: red;
+}
